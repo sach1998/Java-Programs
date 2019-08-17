@@ -12,7 +12,7 @@ public class Simple
 	{
 		quick q=()->
 		{
-			System.out.println("Heal bad thoughts");
+			System.out.println("Heal bad thoughts!");
 		};
 		q.heal();
 	}
