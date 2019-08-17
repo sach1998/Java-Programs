@@ -42,6 +42,7 @@ class GFG
 	 {
 	 //code
 	 Scanner scan = new Scanner(System.in);
+	 System.out.println("Next Value");
 	 int t = scan.nextInt();
 	 while(t>0)
 	 {
